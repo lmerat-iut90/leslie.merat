@@ -11,7 +11,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix",
-    "deploy": "gh-pages -d dist --force"
+    "deploy": "gh-pages -d dist --no-history"
   },
   "dependencies": {
     "pinia": "^3.0.3",
