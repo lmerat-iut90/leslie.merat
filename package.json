@@ -11,7 +11,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix",
-    "deploy": "gh-pages -d dist --no-history"
+    "deploy": "gh-pages -d dist --repo https://github.com/lmerat-iut90/leslie.merat.github.io.git\n"
   },
   "dependencies": {
     "pinia": "^3.0.3",
