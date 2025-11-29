@@ -11,7 +11,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix",
-    "deploy": "git add -f dist && git commit -m 'Deploy' && git subtree push --prefix dist origin gh-pages"
+    "deploy": "git add -f dist && git commit -m 'Deploy' && git subtree push --prefix dist origin gh-page"
   },
   "dependencies": {
     "pinia": "^3.0.3",
