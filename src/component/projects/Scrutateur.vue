@@ -4,7 +4,7 @@
   </div>
   <p>J’ai réalisé ce projet lors de mon stage de deuxième année dans l’entreprise Zurflüh-Feller.
     Il consiste à s’assurer du bon fonctionnement d’un processus qui automatise des actions dans l’ERP, appelé le scrutateur.
-    <br>Un job Talend vérifie toutes les dix minutes que le scrutateur est toujours en fonctionnement. S’il s’arrête (par exemple parce qu’il y a trop de tâches à automatiser), mes collègues et moi recevons alors un e-mail afin de le relancer.</p>
+    <br>Un job Talend vérifie toutes les dix minutes que le scrutateur est toujours en fonctionnement. S’il s’arrête (par exemple parce qu’il y a trop de tâches à automatiser), mes collègues et moi-même recevons alors un e-mail afin de le relancer.</p>
   <div>
     <h2>Technologies utilisées</h2>
     <div class="card-container">
